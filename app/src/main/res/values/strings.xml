@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weathro</string>
+        <string-array name="unit_options">
+            <item>Celsius</item>
+            <item>Fahrenheit</item>
+            <item>Kelvin</item>
+        </string-array>
+</resources>
